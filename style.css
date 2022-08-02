@@ -7,5 +7,10 @@
   .join {
     display: block;
     margin-left: 1.2px;
+    padding-bottom: 2rem;
+  }
+
+  .trusted-companies {
+    display: none;
   }
 }
